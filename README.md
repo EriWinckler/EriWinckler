@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello World 👋
+I am a fullstack software engineer from bangladesh
+- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🌱 Learning design patterns in depth
+<br>
 
-<!--
-**EriWinckler/EriWinckler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me
 
-Here are some ideas to get you started:
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eridan-winckler-449798169/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/instagram-bc2a8d.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/efwinckler/)
+
+<br>
+
+## Also check my page
+
+https://eriwinckler.netlify.app/
