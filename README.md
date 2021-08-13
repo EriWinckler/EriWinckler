@@ -1,6 +1,7 @@
 ### Hello World 👋
 I am a fullstack software engineer from East Providence, RI.
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
+- Learning Java everyday!
 - 🌱 Learning design patterns in depth
 <br>
 
