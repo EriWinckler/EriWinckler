@@ -1,4 +1,4 @@
-Hello World 👋
+Hello World 👋<br>
 I am a fullstack software engineer from East Providence, RI.
 - 🔭 Working on multiple frontend and backend project using React and Java
 - Learning Java everyday!
