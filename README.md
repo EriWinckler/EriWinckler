@@ -14,6 +14,6 @@ I am a fullstack software engineer from East Providence, RI.
 
 <br>
 
-## Also check my page
+## Also check my page:
 
 https://eriwinckler.netlify.app/
