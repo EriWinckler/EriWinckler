@@ -1,10 +1,10 @@
 Hello World 👋<br>
-I am a fullstack software engineer from East Providence, RI.
+I am a fullstack software engineer based in the USA.
 - 🔭 Working on multiple frontend and backend project using React and Java
-- ☕ Learning Java everyday!
+- ☕ Learning everyday!
 - 🌱 Learning design patterns in depth
 
-Student at CareerDevs!
+Computer Science graduate with bootcamp at CareerDevs!
 <br>
 
 ## Connect with me
