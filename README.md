@@ -14,4 +14,5 @@ A proud Computer Science graduate with intensive bootcamp training at CareerDevs
 
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/instagram-bc2a8d.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/efwinckler/)
 
+<br>
 Explore my portfolio: [Check out my page](https://eriwinckler.netlify.app/)
