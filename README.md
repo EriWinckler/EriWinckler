@@ -4,7 +4,7 @@
 > - Full working-day overlap with US Eastern hours.
 > - **Contact:** [LinkedIn](https://www.linkedin.com/in/eridan-winckler-449798169/). English and Portuguese.
 
-My first weeks at Ovitas Inc. (Burlington, MA) in 2022 were spent fixing date formats in a Business Central sync. Four years later, fully remote from Brazil the entire time, the company's CI/CD platform call was mine and the first three pipelines on it are mine. That work lives in private company repositories, so this page is the record rather than the code: every figure below traces to git history, Jira, or Confluence, and I can walk through any of it in an interview.
+My first weeks at Ovitas Inc. (Burlington, MA) in 2022 were spent fixing date formats in a Business Central sync. Four years later, fully remote, the company's CI/CD platform call was mine and the first three pipelines on it are mine. That work lives in private company repositories, so this page is the record rather than the code: every figure below traces to git history, Jira, or Confluence, and I can walk through any of it in an interview.
 
 ## Selected work
 
